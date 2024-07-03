@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.social-link {
+    transition: transform 0.3s ease;
+}
+
+.social-link:hover {
+    transform: scale(1.05);
+}
+
+ 
